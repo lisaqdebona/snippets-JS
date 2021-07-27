@@ -1,4 +1,5 @@
-getPage('./hb_secure.html','#login-security-info','#popup-content');
+getPage('./popup-content.html','#fromID','#popup-content');
+
 var popup = document.getElementById("popup");
 var backdrop = document.getElementById("backdrop");
 function getPage(url, from, to) {
