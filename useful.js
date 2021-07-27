@@ -1,4 +1,4 @@
-/* USEFUL JS */
+/* USEFUL JS SNIPPETS */
 
 /* Phone formatter (xxx) xxx-xxxx */
 $("input.phone").on("change,blur", function () {
